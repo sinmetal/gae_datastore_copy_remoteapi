@@ -1,0 +1,10 @@
+application: your-application-id
+version: ds-copy-remoteapi
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+
+builtins:
+- remote_api: on
